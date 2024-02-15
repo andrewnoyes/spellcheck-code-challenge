@@ -1,0 +1,14 @@
+{
+  "name": "droplet-take-home-test",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Andrew Noyes",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
